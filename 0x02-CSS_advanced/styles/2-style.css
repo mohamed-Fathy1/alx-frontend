@@ -1,0 +1,20 @@
+html {
+    scroll-behavior: smooth;
+}
+
+:root {
+    --foreground: #161616;
+}
+
+body, a {
+    color: var(--foreground);
+}
+
+.visually-hidden {
+    display: none;
+}
+
+.card-category,
+.section-tagline {
+    color: #D73953;
+}
